@@ -1,3 +1,5 @@
+![MasterHead](https://nielseniq.com/wp-content/uploads/sites/4/2021/02/data-science-icon-animation-banner-clockwise-4.gif)
+
 # 📓 NumPy Notes
 
 Welcome to my **NumPy Notes** repository! 🎉 This is a collection of all my notes, code snippets, and explanations to help you understand and master **NumPy** 🧠. Whether you're a beginner or looking to refresh your knowledge, this repo will be useful for anyone working with numerical data and arrays in Python.
